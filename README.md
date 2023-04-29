@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Rehan Qaisar</h1>
-<h3 align="center">A passionate student of BSCS to learn and work on new technologies.</h3>
+<h3 align="center">A passionate student of BSCS and I'm hare to learn and work on new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranarehanqaisar&label=Profile%20views&color=0e75b6&style=flat" alt="ranarehanqaisar" /> </p>
