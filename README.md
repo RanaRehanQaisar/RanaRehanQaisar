@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranarehanqaisar&label=Profile%20views&color=0e75b6&style=flat" alt="ranarehanqaisar" /> </p>
 
-- 🔭 I’m currently working on **Crypto jacking**
+- 🔭 I’m currently working on **Crypto-jacking**
 
-- 🌱 I’m currently learning **NLP, graphic designing, Frontend and backend development**
+- 🌱 I’m currently learning **Python, Graphic designing, Frontend(Laravel), and Backend development(React)**
 
 - 🤝 I’m looking for help with **Machine Learning, and AI**
 
